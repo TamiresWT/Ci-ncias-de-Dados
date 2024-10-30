@@ -1,1 +1,12 @@
+Projetos desenvolvidos durante a disciplina "Machine Learning para Predições em Saúde" lecionada pelo professor Alexandre 
+Chiavegatto Filho, responsável pelo Laboratório de Big Data e Análise Preditiva em Saúde, da Faculdade de Saúde Pública da USP.
 
+O conjunto de dados foi coletado no 'Hospital Universitário de Caracas', em Caracas, Venezuela. 
+O dataset centra-se na previsão de indicadores/diagnóstico de câncer do colo do útero. 
+As variáveis apresentam informações demográficas, hábitos e registros médicos históricos de 858 pacientes. 
+Vários pacientes decidiram não responder a algumas perguntas por questões de privacidade (valores faltantes). 
+O dataset já veio com o tratamento das variáveis categóricas transformadas em variáveis dummy.
+
+A base de dados vem dividido em dois datasets, sendo o critério da divisão as variáveis preditoras e alvos, eu fiz a junção 
+da base para trabalhar o dados e os projetos tratam as variáveis desfecho de diferentes formas para lidar com vazamento de dados,
+resultados parciais de exames e escolha por melhores algoritmos.
