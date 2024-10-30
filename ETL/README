@@ -1,1 +1,9 @@
+Projetos desenvolvidos no Master in Data & Decision Science da Sirius.
 
+ETL (Extract, Transform, Load) é um processo em três etapas usado para integrar e preparar dados para análise:
+
+Extract (Extrair): Coleta dados de diversas fontes (bancos de dados, planilhas, APIs, etc).
+Transform (Transformar): Limpa, filtra, formata e estrutura os dados, tornando-os consistentes e prontos para análise.
+Load (Carregar): Insere os dados transformados em um banco de dados ou sistema de armazenamento, onde podem ser acessados 
+para visualizações e análises.
+ETL é essencial para garantir a qualidade e a consistência dos dados usados em decisões de negócios e análises de dados.
