@@ -1,1 +1,9 @@
+Projetos desenvolvidos no Master in Data & Decision Science da Sirius.
 
+SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais. Com o SQL, é possível:
+
+Criar e modificar tabelas de dados.
+Inserir, atualizar e deletar dados dentro das tabelas.
+Consultar e recuperar dados específicos usando filtros e critérios de pesquisa.
+Agrupar, ordenar e unir dados para análises mais complexas.
+Ele é amplamente utilizado para extrair insights, gerenciar grandes volumes de dados e integrar sistemas de informações.
